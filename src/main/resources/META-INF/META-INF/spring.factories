@@ -1,0 +1,3 @@
+    org.springframework.boot.autoconfigure.EnableAutoConfiguration=com.xbd.rocketmq.client.RocketMQAutoConfiguration
+
+
